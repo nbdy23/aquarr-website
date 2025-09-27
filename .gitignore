@@ -1,0 +1,12 @@
+
+# Mac files
+.DS_Store
+
+# EDitor files
+.vscode/
+*.swp
+*.swo
+
+# backup files
+*~
+EOF
